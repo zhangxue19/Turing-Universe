@@ -8,7 +8,7 @@ This community intends to promote the science popularization of the Turing Award
 
 The community structure is as follows:
 
-![image-20211016202809654](https://i.loli.net/2021/10/16/M4YlOdCoxZvq1fi.png)
+![image-20211016204428132](https://i.loli.net/2021/10/16/x6Z1CjdkMvBzV4T.png)
 
 无论是专业人士还是非专业人士，都能从此社区中找到与图灵奖或图灵奖得主相关的材料或文献资料。
 
