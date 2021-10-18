@@ -110,6 +110,6 @@ During World War II, Perlis was drafted into the army after the Pearl Harbor inc
 
 1986年 发表[FAC: A Functional APL Language.](https://ieeexplore.ieee.org/abstract/document/1695470) [14]
 
-注：具体参考文献详见references.md
+注：具体参考文献详见References。
 
-PS: For specific references, please see references.md
+PS: For specific references, please see References.
