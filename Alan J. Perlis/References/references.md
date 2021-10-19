@@ -28,7 +28,7 @@
 
 [[14]](https://ieeexplore.ieee.org/abstract/document/1695470)  Tu, H. C., & Perlis, A. J. (1986). FAC: a functional APL language. IEEE software, 3(1), 36-45.
 
-注：点击序号即可跳转下载。如有侵权，请联系我们。
+注：如有侵权，请联系我们。
 
-PS：Click the serial number to jump to download. If there is any infringement, please contact us.
+PS：If there is any infringement, please contact us.
 
