@@ -26,7 +26,7 @@
 
 [[13]](https://dl.acm.org/doi/abs/10.1145/73103) Biggerstaff, T. J., & Perlis, A. J. (Eds.). (1989). Software reusability. ACM.
 
-[[14]](https://ieeexplore.ieee.org/abstract/document/1695470)  Tu, H. C., & Perlis, A. J. (1986). FAC: a functional APL language. IEEE software, 3(1), 36-45.
+[[14]](https://ieeexplore.ieee.org/abstract/document/1695470) Tu, H. C., & Perlis, A. J. (1986). FAC: a functional APL language. IEEE software, 3(1), 36-45.
 
 注：如有侵权，请联系我们。
 
