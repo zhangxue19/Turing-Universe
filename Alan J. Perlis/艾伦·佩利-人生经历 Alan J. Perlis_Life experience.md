@@ -2,13 +2,13 @@
 
  
 
-#### **** 贡献领域：高级程序设计技巧，编译器构造
+#### 贡献领域：高级程序设计技巧，编译器构造
 
 艾伦·佩利是 ALGOL语言和计算机科学的“催生者”，由于在 ALGOL 语言的定义和扩充上所做出的重大贡献，以及在创始计算机科学教育，使计算机科学成为一门独立的学科上所发挥的巨大作用而成为首届图灵奖当之无愧的获得者。
 
 ALGOL 是算法语言（ALGOrithmic Language）的简称，是在计算机发展史上首批清晰定义的高级语言，国际计算机学会将 ALGOL 模式列为算法描述的标准，启发 ALGOL 类现代语言 Pascal、Ada、C 语言等出现。
 
-#### Contribution area: Advanced programming skills, compiler construction
+#### Contribution area: advanced programming skills, compiler construction
 
 Alan Paley is the "promoter" of ALGOL and computer science because of his significant contributions to the definition and expansion of the ALGOL language, as well as the founding of computer science education, making computer science an independent subject He became the first winner of the great role.
 
@@ -16,7 +16,7 @@ ALGOL is the abbreviation of language (ALGOrithmic Language). It is a high-level
 
 
 
-#### **** **教育经历**
+#### **教育经历**
 
 1942年取得化学专业学士学位，卡内基理工学院（现卡内基—梅隆大学）
 
@@ -34,7 +34,7 @@ PhD 1950, Massachusetts Institute of Technology, Mathematics.
 
 
 
-#### **** **工作经历**
+#### **工作经历**
 
 二战期间，珍珠港事件（1941.12.7）后佩利被应征入伍；
 
@@ -58,11 +58,11 @@ PhD 1950, Massachusetts Institute of Technology, Mathematics.
 
 1977 - 1978年，在加州理工学院执教。
 
-#### work experience
+#### Work experience
 
 During World War II, Perlis was drafted into the army after the Pearl Harbor incident (1941.12.7);
 
-1948 - 1949 and 1952, He participated in the "Whirlwind" computer project at the Massachusetts Institute of Technology and compiled programs for the "Whirlwind";
+1948 - 1949 and 1952, Perlis participated in the "Whirlwind" computer project at the Massachusetts Institute of Technology and compiled programs for the "Whirlwind";
 
 1951-1952, Perlis worked for one year  in the Ballistic Research Laboratory (BRL) at Aberdeen Proving Ground, Maryland.(John V. Neumann worked as a consultant in the research laboratory);
 
@@ -76,11 +76,11 @@ During World War II, Perlis was drafted into the army after the Pearl Harbor inc
 
 1958-1962, Perlis founded and served as the first editor-in-chief of Communications of ACM magazine.
 
-1966.8, Paley was awarded the Turing Award at the 21st ACM National Convention and delivered a speech entitled 'The Synthesis of Algorithmic Systems' [1]. When Paley gave a speech in 1966, programming was also done through specially designed "coding sheets" and punch cards. But Paley's vision has been towards the future. After emphasizing the importance of the Turing calculation model, he discussed the next step in the development of the programming language and system, including richer data types and data structures, and richer operations related to them. Some of the directions pointed out by Paley have been realized by subsequent research and development, such as LISP, Smalltalk, and some have yet to be further studied.
+1966.8, Perlis was awarded the Turing Award at the 21st ACM National Convention and delivered a speech entitled 'The Synthesis of Algorithmic Systems' [1]. When Perlis gave a speech in 1966, programming was also done through specially designed "coding sheets" and punch cards. But Perlis's vision has been towards the future. After emphasizing the importance of the Turing calculation model, he discussed the next step in the development of the programming language and system, including richer data types and data structures, and richer operations related to them. Some of the directions pointed out by Perlis have been realized by subsequent research and development, such as LISP, Smalltalk, and some have yet to be further studied.
 
 
 
-#### **** **科研经历**
+#### **科研经历**
 
 1957年 与J. W. Smith and H. R. Van Zoeren发表[Internal Translator (IT): A Compiler for the 650.](http://www.bitsavers.org/pdf/ibm/650/CarnegieInternalTranslator.pdf)[2]
 
@@ -110,6 +110,19 @@ During World War II, Perlis was drafted into the army after the Pearl Harbor inc
 
 1986年 发表[FAC: A Functional APL Language.](https://ieeexplore.ieee.org/abstract/document/1695470) [14]
 
-注：具体参考文献详见References。
+#### Scientific experience
 
-PS: For specific references, please see References.
+1957, Perlis published ‘Internal Translator (IT): A Compiler for the 650.’ with J. W. Smith and H. R. Van Zoeren
+
+1958, at a joint meeting of the ACM Group and the European Group, which was dominated by GAMM, then the Association of Applied Mathematics and Mechanics of the Federal Republic of Germany, the two groups combined their recommendations on algorithmic notation into One, forming 'Algol 58' (originally known as the 'International Algebra Language'. It was later renamed 'Algol 58' ).
+
+In January 1960, at a discussion in Paris with world-class software experts, the programming language 'Algol 60' was identified and 'Report on the algorithmic language ALGOL 60' was published.
+
+1960, Perlis published 'Symbol manipulation by threaded lists' with C. Thornton.
+
+
+
+注：具体论文详见Papers。
+
+PS: For specific papers, please see Papers.
+
