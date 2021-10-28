@@ -9,6 +9,8 @@ This community intends to promote the science popularization of the Turing Award
 The community structure is as follows:
 
 ![image-20211025190950991](https://i.loli.net/2021/10/25/u14XGYa6PdtxqNo.png)
+
+
 $$
 Turing\ Universe
 
