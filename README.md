@@ -12,6 +12,7 @@ The community structure is as follows:
 
 
 $$
+
 Turing\ Universe
 
 \begin{cases}
@@ -30,7 +31,7 @@ References.md
 \end{cases} \\  \\
 Maurice\ V.\ Wilkes  \\  \\
 ……
-\end{cases}
+\end{cases}
 $$
 
 
