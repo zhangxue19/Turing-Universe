@@ -9,6 +9,28 @@ This community intends to promote the science popularization of the Turing Award
 The community structure is as follows:
 
 ![image-20211025190950991](https://i.loli.net/2021/10/25/u14XGYa6PdtxqNo.png)
+$$
+Turing\ Universe
+
+\begin{cases}
+Readme.md \\  \\
+Turing\ Award.md \\ \\
+Turing\ Award\ Origin.md \\ \\
+Alan\ J.\ Perlis\ \ \ \ \ 
+
+\begin{cases}
+Life\ Experiences \\  \\
+Turing\ Award\ Speech \\  \\
+Comic\ Turing\ Award  \\  \\
+Related\ Works \\ \\
+References.md 
+
+\end{cases} \\  \\
+Maurice\ V.\ Wilkes  \\  \\
+……
+\end{cases}
+$$
+
 
 无论是专业人士还是非专业人士，都能从此社区中找到与图灵奖或图灵奖得主相关的材料或文献资料。
 
