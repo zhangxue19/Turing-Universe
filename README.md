@@ -1,8 +1,12 @@
 # 图灵宇宙  Turing Universe
 
+![640](https://i.loli.net/2021/10/30/m5XntVv2JI16wA8.jpg)
+
 本社区意在推进图灵奖的科普工作。社区研究人员收集并整理了图灵奖的介绍，以及每届获奖者的生平经历、杰出贡献、相关著作，同时以漫画的形式呈现。
 
 This community intends to promote the science popularization of the Turing Award. Community researchers collected and sorted out the introduction of the Turing Award, as well as the life experiences, outstanding contributions, and related works of each winner, and presented them in the form of comics.
+
+
 
 **社区结构如下：**
 
@@ -12,7 +16,7 @@ This community intends to promote the science popularization of the Turing Award
 
 + **社区介绍**  README.md
 
-* **图灵奖介绍**  Turing Award.md
+* **图灵奖介绍**  Turing Award
 
 * **图灵奖起源**  Turing Award Origin.md
 
