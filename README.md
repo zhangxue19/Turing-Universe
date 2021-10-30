@@ -1,6 +1,6 @@
 # 图灵宇宙  Turing Universe
 
-![640](https://i.loli.net/2021/10/30/m5XntVv2JI16wA8.jpg)
+![640](https://i.loli.net/2021/10/30/otlscUbPSqKhdHz.jpg)
 
 本社区意在推进图灵奖的科普工作。社区研究人员收集并整理了图灵奖的介绍，以及每届获奖者的生平经历、杰出贡献、相关著作，同时以漫画的形式呈现。
 
