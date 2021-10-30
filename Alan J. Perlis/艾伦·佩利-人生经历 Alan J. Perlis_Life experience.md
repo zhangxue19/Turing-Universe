@@ -112,7 +112,7 @@ During World War II, Perlis was drafted into the army after the Pearl Harbor inc
 
 #### Scientific experience
 
-1957, Perlis published ‘Internal Translator (IT): A Compiler for the 650.’ with J. W. Smith and H. R. Van Zoeren
+1957, Perlis published ‘Internal Translator (IT): A Compiler for the 650.’ with J. W. Smith and H. R. Van Zoeren.
 
 1958, at a joint meeting of the ACM Group and the European Group, which was dominated by GAMM, then the Association of Applied Mathematics and Mechanics of the Federal Republic of Germany, the two groups combined their recommendations on algorithmic notation into One, forming 'Algol 58' (originally known as the 'International Algebra Language'. It was later renamed 'Algol 58' ).
 
@@ -120,7 +120,25 @@ In January 1960, at a discussion in Paris with world-class software experts, the
 
 1960, Perlis published 'Symbol manipulation by threaded lists' with C. Thornton.
 
+1962, Perlis Published 'Revised report on the algorithmic language Algol 60' at the seminar.
 
+In the formation and modification of Algol 58 and Algol 60, Perlis played a core and key role. The reason why Perlis won the first Turing Award is mainly because of his significant contribution in this regard.
+
+1970, Perlis published 'A View of Programming Languages'.
+
+1972, Perlis published 'Introduction to computer science'.
+
+1977, Perlis published 'In Praise of APL: A Language for Lyrical Programming'.
+
+1978, Perlis published 'Almost Perfect Artifacts Improve only in Small Ways: APL is more French than English'.
+
+1981, Perlis published 'Software Metrics: An Analysis and Evaluation' with Frederick Sayward and Mary Shaw.
+
+1982, Perlis published 'Epigramson Programming' for ACM SIGPLAN.
+
+1989, Perlis published 'Software reusability'.
+
+1986, Perlis published 'FAC: A Functional APL Language'.
 
 注：具体论文详见Papers。
 

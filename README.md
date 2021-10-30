@@ -4,35 +4,30 @@
 
 This community intends to promote the science popularization of the Turing Award. Community researchers collected and sorted out the introduction of the Turing Award, as well as the life experiences, outstanding contributions, and related works of each winner, and presented them in the form of comics.
 
-社区结构如下：
+**社区结构如下：**
 
-The community structure is as follows:
+**The community structure is as follows:**
 
-![image-20211025190950991](https://i.loli.net/2021/10/25/u14XGYa6PdtxqNo.png)
+Turing Universe
 
++ README.md
 
-$$
+* Turing Award.md
 
-Turing\ Universe
+* Turing Award Origin.md
 
-\begin{cases}
-Readme.md \\  \\
-Turing\ Award.md \\ \\
-Turing\ Award\ Origin.md \\ \\
-Alan\ J.\ Perlis\ \ \ \ \ 
+* Alan J. Perlis
 
-\begin{cases}
-Life\ Experiences \\  \\
-Turing\ Award\ Speech \\  \\
-Comic\ Turing\ Award  \\  \\
-Related\ Works \\ \\
-References.md 
+  + Life Experience
+  + Turing Award Speech
+  + Comic Turing Award
+  + Papers
+  + Speech
+  + papers.md
 
-\end{cases} \\  \\
-Maurice\ V.\ Wilkes  \\  \\
-……
-\end{cases}
-$$
+* Maurice V. Wilkes
+
+  
 
 
 无论是专业人士还是非专业人士，都能从此社区中找到与图灵奖或图灵奖得主相关的材料或文献资料。
