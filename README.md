@@ -8,24 +8,24 @@ This community intends to promote the science popularization of the Turing Award
 
 **The community structure is as follows:**
 
-Turing Universe
+##### 图灵宇宙Turing Universe
 
-+ README.md
++ **社区介绍**  README.md
 
-* Turing Award.md
+* **图灵奖介绍**  Turing Award.md
 
-* Turing Award Origin.md
+* **图灵奖起源**  Turing Award Origin.md
 
-* Alan J. Perlis
+* **艾伦 · 佩利**  Alan J. Perlis
 
-  + Life Experience
-  + Turing Award Speech
-  + Comic Turing Award
-  + Papers
-  + Speech
-  + papers.md
+  + 人生经历  Life Experience
+  + 图灵演讲  Turing Award Speech
+  + 漫画图灵奖  Comic Turing Award
+  + 相关著作  Papers
+  + 人物演讲  Speeches
+  + 相关著作  papers.md
 
-* Maurice V. Wilkes
+* **莫里斯 · 威尔克斯**  Maurice V. Wilkes
 
   
 
